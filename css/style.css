@@ -1,0 +1,25 @@
+h3{
+	color: red;
+	font-size: 30px;
+}
+.text_1{
+	background-color: yellow;
+}
+#text2{
+	border: 10px dotted green;
+}
+.box{
+	weight: 200px;
+	height: 200px;
+	background-color: rgba(00,00,00,.7);
+	font-size: 30px;
+
+}
+
+.box2{
+	weight: 200px;
+	height: 200px;
+	background-color: rgba(00,00,00,.3);
+	font-size: 30px;
+
+}
